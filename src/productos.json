@@ -1,0 +1,110 @@
+{
+    "0":{
+        "producto": "Combo 15 Alitas",
+        "descripcion": "15 Alitas, con los sabores que desees escoger, Incluye Salsa Blue Cheese, Apio y Zanahoria",
+        "precio_real": "$14,99",
+        "precio_descuento": "$12,99",
+        "empresa": "Eddys BBQ",
+        "categoria": "restaurante",
+        "foto": "img/alitas_bbq.jpg"
+    },
+    "1":{
+        "producto": "Mozzarella Sticks",
+        "descripcion": "8 deditos de Queso Mozzarella apanizados, acompañados de salsa Marinara",
+        "precio_real": "$6,99",
+        "precio_descuento": "$4,99",
+        "empresa": "Eddys BBQ",
+        "categoria": "restaurante",
+        "foto": "img/dedos_bbq.png"
+    },
+    "2":{
+        "producto": "Imperdible doble extra con queso",
+        "descripcion": "Dos carnes, mostaza, salsa de tomate y delicioso queso cheddar se unen para crear esta increíble combinación.",
+        "precio_real": "$10.99",
+        "precio_descuento": "$8,99",
+        "empresa": "MC Donald's",
+        "categoria": "restaurante",
+        "foto": "img/doble_extra_queso.png"
+    },
+    "3":{
+        "producto": "MCBACON",
+        "descripcion": "Hamburguesa con pan fresco, dos carnes, queso cheddar, tocino, cebolla, salsa de tomate y mostaza.",
+        "precio_real": "$7,99",
+        "precio_descuento": "$5,99",
+        "empresa": "MC Donald's",
+        "categoria": "restaurante",
+        "foto": "img/mc_bacon.png"
+    },
+    "4":{
+        "producto": "Parlante Ultrasound TREX | 65000W",
+        "descripcion": "Parlante Tek Turbo Urbano 15 70.000 W - Color Negro - Con Pedestal y Microfono",
+        "precio_real": "$168,01",
+        "precio_descuento": "$145,99",
+        "empresa": "Comandato",
+        "categoria": "tecnología",
+        "foto": "img/mouse.jpg"
+    },
+    "5":{
+        "producto": "MOUSE SILHOUETTE USB",
+        "descripcion": "Mouse alambrico economico, plano y ergonomico",
+        "precio_real": "$7,01",
+        "precio_descuento": "$5,00",
+        "empresa": "Comandato",
+        "categoria": "tecnología",
+        "foto": "img/parlante.jpg"
+    },
+    "6":{
+        "producto": "Reloj smartwatch X7",
+        "descripcion": "Reloj Inteligente Completamente Táctil Con Bluetooth, entrada y salida de llamadas desde el reloj",
+        "precio_real": "$14,00",
+        "precio_descuento": "$12,00",
+        "empresa": "Novicompu",
+        "categoria": "tecnología",
+        "foto": "img/reloj.jpg"
+    },
+    "7":{
+        "producto": "Xiaomi Redmi Note 8",
+        "descripcion": "Octava generación de la serie Redmi Note, esta vez con una pantalla Full HD+ de 6.3 pulgadas",
+        "precio_real": "$223,00",
+        "precio_descuento": "$215,00",
+        "empresa": "Novicompu",
+        "categoria": "tecnología",
+        "foto": "img/xiaomi.jpg"
+    },
+    "10":{
+        "producto": "Mejor tour en cuatrimoto, cinco tirolinas",
+        "descripcion": "Atrévete a desafiar los caminos de barro en medio de la selva a bordo de un cuatrimoto",
+        "precio_real": "$70,00",
+        "precio_descuento": "$65,00",
+        "empresa": "Viator",
+        "categoria": "viajes",
+        "foto": "img/viator1.jpg"
+    },
+    "11":{
+        "producto": "Excursión combinada al aire libre",
+        "descripcion": "Explore el bosque tropical y la costa caribeña de la península de Yucatán en un recorrido de aventura",
+        "precio_real": "$75,00",
+        "precio_descuento": "$67,00",
+        "empresa": "Viator",
+        "categoria": "viajes",
+        "foto": "img/viator2.jpg"
+    },
+    "12":{
+        "producto": "TREN DE LOS VOLCANES III",
+        "descripcion": "Tren de los volcanes- Ambato, atraviesa por hermosos paisajes de bosque andino",
+        "precio_real": "$55,00",
+        "precio_descuento": "$47,00",
+        "empresa": "Spring Travel",
+        "categoria": "viajes",
+        "foto": "img/tren.jpg"
+    },
+    "13":{
+        "producto": "Promo Galapagos Express",
+        "descripcion": "Podras observar paisajes inolvidables, debido a que posee la flora y fauna mas diversa del mundo",
+        "precio_real": "$400,00",
+        "precio_descuento": "$370,00",
+        "empresa": "Spring Travel",
+        "categoria": "viajes",
+        "foto": "img/galapagos.jpg"
+    }
+}

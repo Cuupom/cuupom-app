@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "cuupom-app",
+    "slug": "cuupom-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/icon.jpg",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.cuupom593.cuupom",
+      "config": {
+        "googleSignIn": {
+         
+          "reservedClientId": "com.googleusercontent.apps.936758220359-k43c0h25j103vsha1c522ebqc60cpkqj"
+        }
+      },
+      "googleServicesFile": "./ios/GoogleService-Info.plist"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/icon.jpg",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.cuupom593.cuupom",
+      "googleServicesFile": "./android/app/google-services.json"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
